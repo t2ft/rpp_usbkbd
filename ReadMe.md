@@ -7,6 +7,9 @@ Thanks to the great work of [haojiang99](https://github.com/haojiang99/key_nav_r
 It is described how to install a systemd service on the remarkable to automatically start this script and use it to swipe through a document
 using keyboard keys only.
 
+## Disclosure
+The program and drawings have been tested for my personal use only. It is not garanteed that the methods described here work for others. Please be aware that your reMarkable Paper Pro might get damaged by this. I will take no reposibilites whatsoever in that case. You have been warned.
+
 ## Prerequisites
 
 - The reMarkable Paper Pro has be installed in *Developer Mode*
