@@ -1,0 +1,12 @@
+[Unit]
+Description=USB Keyboard to Touchevent Mapper
+After=xochitl.service
+
+[Service]
+ExecStart=/home/root/rpp_usbkbd/rpp_usbkbd.sh
+Restart=always
+RestartSec=10
+
+
+[Install]
+WantedBy=default.target
